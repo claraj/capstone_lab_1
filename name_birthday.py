@@ -22,3 +22,5 @@ print(f'You have {letters_in_name} letters in your name')
 if birthday_month.lower() == 'august':
     print('Happy birthday month!')
 # optional else to print a different message 
+else:
+    print('It is not your birthday this month')
